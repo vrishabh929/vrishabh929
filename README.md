@@ -19,7 +19,7 @@
 <a href="https://instagram.com/crushless_prince/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/crushless_prince/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vrajeshbabu8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vrajeshbabu8" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vrajeshbabu8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@vrajeshbabu8" height="30" width="40" /></a>
- <a href="https://https://public.tableau.com/profile/vrajesh.babu.a.v#!/" target="blank"><img align="center" src="https://github.com/vrishabh929/vrishabh929/blob/main/tableau-software.svg" alt="https://public.tableau.com/profile/vrajesh.babu.a.v#!/" height="30" width="40" /></a>
+ <a href="https://public.tableau.com/profile/vrajesh.babu.a.v#!/" target="blank"><img align="center" src="https://github.com/vrishabh929/vrishabh929/blob/main/tableau-software.svg" alt="https://public.tableau.com/profile/vrajesh.babu.a.v#!/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
