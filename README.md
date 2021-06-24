@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vrajesh Babu A V</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Vrajesh Babu A V</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishabh929&label=Profile%20views&color=b70b4a&style=plastic" alt="vrishabh929" /> </p>
